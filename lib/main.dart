@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
         ),
         primarySwatch: Colors.pink,
       ),
-      initialRoute: '/home',
+      initialRoute: '/',
       getPages: AppRoutes.pages,
       initialBinding: MainBinding(),
     );
